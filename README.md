@@ -2,7 +2,18 @@
 
 Welcome to Entertainment Hub! Your ultimate destination for exploring movies and TV series. Powered by the TMdB API, Entertainment Hub brings you a wealth of information about your favorite entertainment content, including cast details, movie trailers, descriptions, and more. Whether you're a movie buff or a TV show enthusiast, Entertainment Hub has got you covered. Built using ReactJS, CSS, HTML, and the Material-UI (MUI) framework, the platform offers a delightful and immersive way to dive into the world of entertainment.
 
-![Entertainment Hub Screenshot](/screenshot.png)
+**Trending Page**
+![image](https://github.com/ishan21sh/MoviesApp/assets/77916539/6027ccd6-084b-4c9d-82d7-2cf2c85af1f2)
+
+**Movies/TV Series Page with Genre Tags**
+![image](https://github.com/ishan21sh/MoviesApp/assets/77916539/39d650b9-cfa2-46fe-897a-3b727c8702b6)
+
+**Search Page**
+![image](https://github.com/ishan21sh/MoviesApp/assets/77916539/af2be29a-ec4c-41b1-9f5e-cfd33f30088a)
+
+**Movie Information Component**
+![image](https://github.com/ishan21sh/MoviesApp/assets/77916539/e371edfe-2b5f-4d17-b001-c78b64dc19d1)
+
 
 ## Features
 
